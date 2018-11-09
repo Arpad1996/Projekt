@@ -1,3 +1,3 @@
 # Projekt
 
-Hi Kriszti!
+Ez a Projekt!
